@@ -43072,3 +43072,104 @@ Caused by: java.io.IOException: Удаленный хост принудител
 2021-03-30 18:39:16 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
 2021-03-30 18:40:16 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
 2021-03-30 18:41:16 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 18:42:16 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 18:43:16 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 18:44:16 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 18:45:16 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 18:46:16 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 18:47:16 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 18:48:16 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 18:49:16 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 18:50:16 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 18:51:16 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 18:52:04 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-03-30 18:52:05 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-03-30 18:52:09 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-03-30 18:52:09 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-30 18:52:09 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-03-30 22:05:55 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-03-30 22:05:55 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.47 ----------
+
+2021-03-30 22:05:55 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-03-30 22:05:55 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-03-30 22:05:55 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-03-30 22:05:55 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-03-30 22:05:55 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-03-30 22:05:55 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2021-03-30 22:06:11 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-03-30 22:06:12 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-03-30 22:06:23 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-03-30 22:06:34 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-03-30 22:06:35 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/untitled/IdeaProjects/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task12/task1212
+2021-03-30 22:06:35 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2021-03-30 22:06:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:07:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:08:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:09:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:10:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:11:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:12:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:13:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:14:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:15:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:16:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:17:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:18:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:19:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:20:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:21:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-03-30 22:21:54 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-30 22:21:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:21:56 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-03-30 22:21:56 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-30 22:21:57 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2021-03-30 22:22:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-03-30 22:22:00 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-03-30 22:22:03 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-03-30 22:22:03 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/untitled/IdeaProjects/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task12/task1213
+2021-03-30 22:22:03 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2021-03-30 22:22:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:23:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:24:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:25:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:26:04 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-03-30 22:26:04 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-30 22:26:05 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-03-30 22:26:05 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-30 22:26:06 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2021-03-30 22:26:08 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-03-30 22:26:09 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-03-30 22:26:11 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-03-30 22:26:11 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/untitled/IdeaProjects/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task12/task1214
+2021-03-30 22:26:11 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2021-03-30 22:26:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:27:07 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-03-30 22:27:45 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2021-03-30 22:27:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:28:33 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-03-30 22:28:45 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2021-03-30 22:28:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-03-30 22:28:48 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-30 22:28:48 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-03-30 22:28:48 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-30 22:28:49 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2021-03-30 22:28:50 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-03-30 22:28:51 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-03-30 22:28:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:29:04 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-03-30 22:29:04 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/untitled/IdeaProjects/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task12/task1215
+2021-03-30 22:29:04 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2021-03-30 22:29:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:30:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:31:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:32:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:33:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:34:06 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-03-30 22:34:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-03-30 22:35:42 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-03-30 22:35:43 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-30 22:35:45 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-03-30 22:35:45 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-03-30 22:35:46 INFO  AnalyticsService.run(81) - Error while sending analyticsMessage to log-stash : error in server. Status code :429
+2021-03-30 22:35:55 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
