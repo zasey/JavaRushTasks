@@ -43502,3 +43502,40 @@ Caused by: java.io.IOException: Удаленный хост принудител
 2021-04-01 19:04:24 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
 2021-04-01 19:05:24 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
 2021-04-01 19:06:24 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-01 19:07:24 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-01 19:08:24 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-01 19:09:24 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-01 19:10:24 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-01 19:11:24 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-01 19:12:24 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-01 19:13:24 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-01 19:14:24 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-01 19:15:24 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-01 19:16:07 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2021-04-01 19:16:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-04-01 19:16:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-04-01 19:16:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-04-01 19:16:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-04-01 19:16:08 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2021-04-01 23:57:31 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2021-04-01 23:57:31 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.47 ----------
+
+2021-04-01 23:57:31 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2021-04-01 23:57:31 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2021-04-01 23:57:31 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2021-04-01 23:57:31 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2021-04-01 23:57:31 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-04-01 23:57:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-04-01 23:57:36 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-04-01 23:57:41 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2021-04-01 23:57:44 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2021-04-01 23:57:44 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/untitled/IdeaProjects/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16
+2021-04-01 23:57:44 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/Users/untitled/IdeaProjects/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1601
+2021-04-01 23:58:32 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-01 23:59:22 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-04-01 23:59:31 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
+2021-04-01 23:59:53 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2021-04-01 23:59:54 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2021-04-01 23:59:55 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2021-04-01 23:59:55 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
